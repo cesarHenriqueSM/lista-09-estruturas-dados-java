@@ -2,7 +2,7 @@
 
 ## Lista de Atividades IX - Java
 
-###1. Faça um programa em C# que utilize a Estrutura de Dados HashTables. Ele deverá ler o CPF da pessoa e seu telefone. O programa deverá conseguir ler até 05 CPF e seus respectivos telefones. Imprima esses dados na tela.
+### 1. Faça um programa em C# que utilize a Estrutura de Dados HashTables. Ele deverá ler o CPF da pessoa e seu telefone. O programa deverá conseguir ler até 05 CPF e seus respectivos telefones. Imprima esses dados na tela.
 
 '''
 	
@@ -28,7 +28,7 @@
  
 '''
 
-###2. Modifique o programa anterior para que ele consiga também pesquisar por cpf's e encontrar seus telefones.
+### 2. Modifique o programa anterior para que ele consiga também pesquisar por cpf's e encontrar seus telefones.
 
 '''
 	
@@ -55,7 +55,7 @@
 
 '''
 
-###3. Você foi contratado para desenvolver um programa em Java para criar um sistema de carrinho de compras usando HashTables. O programa permite adicionar produtos ao carrinho, visualizar o carrinho, finalizar a compra mostrando o valor total a ser pago e sair. Cada produto é representado pelo seu nome (chave) e preço (valor associado) na HashTable.
+### 3. Você foi contratado para desenvolver um programa em Java para criar um sistema de carrinho de compras usando HashTables. O programa permite adicionar produtos ao carrinho, visualizar o carrinho, finalizar a compra mostrando o valor total a ser pago e sair. Cada produto é representado pelo seu nome (chave) e preço (valor associado) na HashTable.
 
 '''
 	
